@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there! 👋
 
 - 🔭 I’m currently working on my resume and job hunting.
 - 🌱 I’m currently learning with help from docs.github.com.
